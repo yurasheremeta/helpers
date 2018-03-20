@@ -13123,17 +13123,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Christy\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christy\\Desktop\\helpers\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\helpers\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\Users\\Christy\\Desktop\\helpers\\WebApplication\\WebApplication.csproj",
-      "packagesPath": "C:\\Users\\Christy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christy\\Desktop\\helpers\\WebApplication\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\helpers\\WebApplication\\WebApplication.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\helpers\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
