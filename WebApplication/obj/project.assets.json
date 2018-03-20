@@ -13132,11 +13132,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mike\\Desktop\\team-5\\Helpers\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Mike\\Desktop\\helpers\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\Users\\Mike\\Desktop\\team-5\\Helpers\\WebApplication\\WebApplication.csproj",
+      "projectPath": "C:\\Users\\Mike\\Desktop\\helpers\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mike\\Desktop\\team-5\\Helpers\\WebApplication\\obj\\",
+      "outputPath": "C:\\Users\\Mike\\Desktop\\helpers\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
