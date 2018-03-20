@@ -13129,11 +13129,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+ kobyletska
       "projectUniqueName": "C:\\Users\\Christy\\Desktop\\helpers\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
       "projectPath": "C:\\Users\\Christy\\Desktop\\helpers\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\Christy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Christy\\Desktop\\helpers\\WebApplication\\obj\\",
+
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
